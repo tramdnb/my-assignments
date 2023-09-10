@@ -5,8 +5,11 @@ This repository contains my assignments for the course. Below are the details of
 ## 1. Mobile Testing (Order Drink App)
 
 [Link to Mobile Testing Project](https://github.com/tramdnb/my-assignments/blob/3381ddc75282decd881fa8807ba3297e5fccecf9/Mobile%20Testing.zip)
+[Link to Mobile Testing Project v2](https://github.com/tramdnb/my-assignments/blob/3381ddc75282decd881fa8807ba3297e5fccecf9/Mobile%20Testing%20v2.zip)
+[Link to Mobile Testing Project Files](https://github.com/tramdnb/my-assignments/blob/3381ddc75282decd881fa8807ba3297e5fccecf9/Mobile%20Testing%20files.zip)
 
-Description: This project involves testing a mobile application for order management.
+Description: This project involves testing a mobile application for order management. 
+They are separated into different versions to reduce the size of each commit and provide clarity to the content.
 
 ## 2. Web and API Testing (Web Application, by Postman)
 
